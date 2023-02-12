@@ -18,3 +18,12 @@
 4. 소스 파일을 제출합니다. (commit & push)
 
 5. 위 1, 2번은 최초 1번만 수행하고 이후 3, 4번만 반복 수행하면 됩니다.
+
+<br/>
+
+
+## 개인 Repository 위치
+
+* https://github.com/dimigo3/2023-app-dev-<본인ID>
+
+* github에서 직접 소스를 수정하지 말고, 꼭 VSC에서 github로 올리세요!
